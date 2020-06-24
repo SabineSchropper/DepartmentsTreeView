@@ -1,0 +1,15 @@
+C:\Users\DCV\C#\TreeViewControl\DepartmentController\bin\Debug\netstandard2.0\DepartmentLogic.deps.json
+C:\Users\DCV\C#\TreeViewControl\DepartmentController\bin\Debug\netstandard2.0\DepartmentLogic.dll
+C:\Users\DCV\C#\TreeViewControl\DepartmentController\bin\Debug\netstandard2.0\DepartmentLogic.pdb
+C:\Users\DCV\C#\TreeViewControl\DepartmentController\bin\Debug\netstandard2.0\DepartmentData.dll
+C:\Users\DCV\C#\TreeViewControl\DepartmentController\bin\Debug\netstandard2.0\EntityFramework.dll
+C:\Users\DCV\C#\TreeViewControl\DepartmentController\bin\Debug\netstandard2.0\DepartmentData.pdb
+C:\Users\DCV\C#\TreeViewControl\DepartmentController\bin\Debug\netstandard2.0\DepartmentData.dll.config
+C:\Users\DCV\C#\TreeViewControl\DepartmentController\bin\Debug\netstandard2.0\EntityFramework.xml
+C:\Users\DCV\C#\TreeViewControl\DepartmentController\obj\Debug\netstandard2.0\DepartmentLogic.csprojAssemblyReference.cache
+C:\Users\DCV\C#\TreeViewControl\DepartmentController\obj\Debug\netstandard2.0\DepartmentLogic.AssemblyInfoInputs.cache
+C:\Users\DCV\C#\TreeViewControl\DepartmentController\obj\Debug\netstandard2.0\DepartmentLogic.AssemblyInfo.cs
+C:\Users\DCV\C#\TreeViewControl\DepartmentController\obj\Debug\netstandard2.0\DepartmentLogic.csproj.CoreCompileInputs.cache
+C:\Users\DCV\C#\TreeViewControl\DepartmentController\obj\Debug\netstandard2.0\DepartmentLogic.csproj.CopyComplete
+C:\Users\DCV\C#\TreeViewControl\DepartmentController\obj\Debug\netstandard2.0\DepartmentLogic.dll
+C:\Users\DCV\C#\TreeViewControl\DepartmentController\obj\Debug\netstandard2.0\DepartmentLogic.pdb
