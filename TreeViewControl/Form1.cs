@@ -51,6 +51,7 @@ namespace TreeViewControl
             this.departments = departments;
             treeViewDep.Nodes.Clear();
             MakeTreeView();
+            SetComboBox();
 
         }
         public void MakeTreeView()
@@ -82,6 +83,8 @@ namespace TreeViewControl
 
         public void SetComboBox()
         {
+            comBoParents.Items.Clear();
+
             foreach(var item in departments)
             {
                 comBoParents.Items.Add(item);
